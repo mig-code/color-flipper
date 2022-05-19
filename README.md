@@ -26,7 +26,7 @@ Finalmente, al pulsar el botón se cambia el color de la pantalla y el texto pri
 
 ## Installation
 
-(https://mig-code.github.io/color-flipper/)
+https://mig-code.github.io/color-flipper/
 
 ## Contact info | Not required | Recommended
 
